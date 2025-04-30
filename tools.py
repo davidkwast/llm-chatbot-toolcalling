@@ -33,7 +33,7 @@ def time_now():
 def get_tch(id_talhao: str):
     """
     qual o TCH do Talhão "id_talhao"
-    qual o quantidade colhida no Talhão "id_talhao" na ultima safra
+    qual a quantidade colhida no Talhão "id_talhao" na ultima safra
     """
     print('-' * 40)
     print(f'DEBUG: get_tch({id_talhao})')
